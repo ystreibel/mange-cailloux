@@ -14,7 +14,7 @@ Ils ont eu aussi la capacité de manger les briques.
 Enfin il existe un second enjeu : réaliser le meilleur score possible afin de figurer dans le tableau des meilleurs joueurs. 
 Pour cumuler le meilleur score possible, on peut aussi tuer les ennemis de différentes façons, incluant ainsi des quotas de points par façon de tuer. 
 
-![Mange Cailloux](https://github.com/ystreibel/mange-cailloux/blob/master/mange-cailloux_home.png)
+![Mange Cailloux](https://github.com/downloads/ystreibel/mange-cailloux/mange-cailloux_home.png)
 ![Mange Cailloux](https://github.com/ystreibel/mange-cailloux/blob/master/mange-cailloux_game.png)
 ![Mange Cailloux](https://github.com/ystreibel/mange-cailloux/blob/master/mange-cailloux_highscore.png)
  

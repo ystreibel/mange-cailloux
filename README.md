@@ -1,4 +1,4 @@
-# Project Name
+# Mange Cailloux
  
 Portage du jeu Mange Cailloux CPC en J2ME.
 

@@ -15,8 +15,8 @@ Enfin il existe un second enjeu : réaliser le meilleur score possible afin de f
 Pour cumuler le meilleur score possible, on peut aussi tuer les ennemis de différentes façons, incluant ainsi des quotas de points par façon de tuer. 
 
 ![Mange Cailloux](mange-cailloux_home.png)
-![Mange Cailloux](https://github.com/ystreibel/mange-cailloux/blob/master/mange-cailloux_game.png)
-![Mange Cailloux](https://github.com/ystreibel/mange-cailloux/blob/master/mange-cailloux_highscore.png)
+![Mange Cailloux](mange-cailloux_game.png)
+![Mange Cailloux](mange-cailloux_highscore.png)
  
 ## Contributing
  
